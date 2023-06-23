@@ -74,7 +74,7 @@ Save the credentials file somewhere where you can access it later and select the
 
 ![](images/12-save_credentials.png)
 
-It will take a few minutes foe the instance to deploy. Once it's ready it will have a green dot next to the word "Ready" 
+It will take a few minutes for the instance to deploy. Once it's ready it will have a green dot next to the word "Ready" 
 
 Click on the "Query" button to login to the browser console. 
 
