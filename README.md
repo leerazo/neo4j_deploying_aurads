@@ -84,6 +84,9 @@ Login now using the credentials downloaded in an earlier step
 
 ![](images/14-login.png)
 
-In the browser query box type ":server change-password" to set the password to something more memorable.
+In the browser query box type **:server change-password** to set the password to something more memorable.
+
+
+    :server change-password 
 
 ![](images/15-change_passwd.png)
